@@ -1,0 +1,1 @@
+Projeto para gerar qr code baseado na chave pix.
